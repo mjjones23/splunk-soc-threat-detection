@@ -71,10 +71,10 @@ These observations are consistent with possible password guessing followed by su
 ## Dashboard Screenshots
 
 ### SOC Threat Detection Dashboard
-![SOC Threat Detection Dashboard](SOC%20-1.png)
+![SOC Threat Detection Dashboard](SOC%20-1%20.png)
 
 ### Threat Severity and Investigation Details
-![SOC Investigation Details](SOC%20-2.png)
+![SOC Investigation Details](SOC%20-2%20.png)
 
 ## Lab Disclaimer
 This project uses simulated security event logs and documentation IP addresses. No real-world attack or confirmed compromise is represented.
