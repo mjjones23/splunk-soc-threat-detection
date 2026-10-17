@@ -68,5 +68,13 @@ These observations are consistent with possible password guessing followed by su
 - SOC dashboard creation
 - Incident documentation
 
+## Dashboard Screenshots
+
+### SOC Threat Detection Dashboard
+![SOC Threat Detection Dashboard](SOC%20-1.png)
+
+### Threat Severity and Investigation Details
+![SOC Investigation Details](SOC%20-2.png)
+
 ## Lab Disclaimer
 This project uses simulated security event logs and documentation IP addresses. No real-world attack or confirmed compromise is represented.
